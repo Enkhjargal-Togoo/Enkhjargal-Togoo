@@ -19,5 +19,5 @@ AI Master’s student @ Curtin University | IT professional with 13 years of exp
 Python • PyTorch • LangChain/LangGraph • Rasa • FastAPI • R • SQL • Linux 
 
 ## Links
-- LinkedIn: [<add-link>](https://www.linkedin.com/in/enkhjargal-togoo-7b6063163/)
+- LinkedIn: [(https://www.linkedin.com/in/enkhjargal-togoo-7b6063163/)]
 - Email: enkhjargal1990@gmail.com
