@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Enkhjargal Togoo 👋
 
-<!--
-**Enkhjargal-Togoo/Enkhjargal-Togoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Master’s student @ Curtin University | IT professional with 13 years of experience in the banking | Head of IT Architecture & Data (PT)
 
-Here are some ideas to get you started:
+## What I’m focused on
+- Multimodal AI systems (Vision + LLMs)
+- NLP / RAG and enterprise assistants
+- Agentic AI workflows and implementation
+- AI strategy planning
+- Data/AI architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects (Work in progress)
+- 🩺 AI Dermatology Assistant (multimodal)
+- 🤖 Agentic AI for Banking Operations
+- 🎮 Reinforcement Learning Atari Agents
+- 📊 Banking Analytics Case Study
+
+## Tech Stack
+Python • PyTorch • LangChain/LangGraph • Rasa • FastAPI • R • SQL • Linux 
+
+## Links
+- LinkedIn: [<add-link>](https://www.linkedin.com/in/enkhjargal-togoo-7b6063163/)
+- Email: enkhjargal1990@gmail.com
