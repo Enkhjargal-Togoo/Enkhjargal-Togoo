@@ -1,4 +1,4 @@
-# Hi, I'm Enkhjargal Togoo 👋
+# Hi, I'm Enji 👋
 
 AI Master’s student @ Curtin University | IT professional with 13 years of experience in the banking | Head of IT Architecture & Data (PT)
 
@@ -9,8 +9,8 @@ AI Master’s student @ Curtin University | IT professional with 13 years of exp
 - AI strategy planning
 - Data/AI architecture
 
-## Featured Projects (Work in progress)
-- 🩺 AI Dermatology Assistant (multimodal)
+## Featured Projects 
+- 🩺 [AI Dermatology Assistant – Multimodal Medical Chatbot](https://github.com/Enkhjargal-Togoo/ai-dermatology-assistant)
 - 🤖 Agentic AI for Banking Operations
 - 🎮 Reinforcement Learning Atari Agents
 - 📊 Banking Analytics Case Study
