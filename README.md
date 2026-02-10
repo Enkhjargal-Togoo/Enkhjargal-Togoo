@@ -11,7 +11,7 @@ AI Master’s student @ Curtin University | IT professional with 13 years of exp
 
 ## Featured Projects 
 - 🩺 [AI Dermatology Assistant – Multimodal Medical Chatbot](https://github.com/Enkhjargal-Togoo/ai-dermatology-assistant)
-- 🎮 [Reinforcement Learning Agents implementation on Atari game environment](https://github.com/Enkhjargal-Togoo/rl-space-inavders)
+- 🎮 [Reinforcement Learning Agents implementation on Atari game environment](https://github.com/Enkhjargal-Togoo/rl-space-invaders)
 - 🤖 Agentic AI for Banking Operations
 - 📊 Banking Analytics Case Study
 
